@@ -1,10 +1,14 @@
-### Hi there 👋, my name is Um e Habiba
-#### Software Engineer from Pakistan 
-![Software Engineer from Pakistan ](https://media.licdn.com/dms/image/v2/C4E16AQEwkmAF4PQCiQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1606678801560?e=2147483647&v=beta&t=li2aqflFwQQWNrITKSn-pE_Wkur5hLdUDHj-k9xhNpk)
 
+![Software Engineer from Pakistan ](https://media.licdn.com/dms/image/v2/C4E16AQEwkmAF4PQCiQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1606678801560?e=2147483647&v=beta&t=li2aqflFwQQWNrITKSn-pE_Wkur5hLdUDHj-k9xhNpk )
+# Hi there 👋, my name is Um e Habiba
+## Software Engineer from Pakistan 
 🌟 Hello! I'm Ume Habiba. Currently on my journey as a software engineering student, I specialize in web development and am diving into the world of Android development with React Native. My passion for technology doesn't stop there—I’m fascinated by prompt engineering and constantly seek out new challenges to expand my knowledge. If you share a love for exploring innovative tech, let's connect and build something extraordinary!
 
-Skills: REACT / JS / HTML / CSS / React Native / C++ 
+## Skills
+* ⚛️REACT 
+* 💻HTML / CSS / Js
+* 📱React Native 
+
 
 - 🔭 I’m currently working on my final year project which is Early Fire Detection System using IOT devices and Azure services . 
 - 🌱 I’m currently learning React Native  
@@ -14,9 +18,7 @@ Skills: REACT / JS / HTML / CSS / React Native / C++
 - 📫 How to reach me: You can reach me via uh.ume.habiba@gmail.com, or connect with me on LinkedIn https://www.linkedin.com/in/um-e-habiba27. 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: When I'm not coding, you might find me experimenting in the kitchen, trying to perfect a new recipe! 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MissProgramm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/um-e-habiba27/)  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissProgramm)](https://github.com/anuraghazra/github-readme-stats)
 
