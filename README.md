@@ -1,51 +1,30 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+### Hi there 👋, my name is Um e Habiba
+#### Software Engineer from Pakistan 
+![Software Engineer from Pakistan ](https://media.licdn.com/dms/image/v2/C4E16AQEwkmAF4PQCiQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1606678801560?e=2147483647&v=beta&t=li2aqflFwQQWNrITKSn-pE_Wkur5hLdUDHj-k9xhNpk)
 
-<h1 align="center">Hi 👋, I'm Um e Habiba</h1>
-<h3 align="center">A enthusiastic Software Engineer from Pakistan</h3>
-<img align="right" width="400 " alt="coding image"  src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif "  > 
+🌟 Hello! I'm Ume Habiba. Currently on my journey as a software engineering student, I specialize in web development and am diving into the world of Android development with React Native. My passion for technology doesn't stop there—I’m fascinated by prompt engineering and constantly seek out new challenges to expand my knowledge. If you share a love for exploring innovative tech, let's connect and build something extraordinary!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=missprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="missprogrammer" /> </p>
+Skills: REACT / JS / HTML / CSS / React Native / C++ 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=missprogrammer" alt="missprogrammer" /></a> </p>
+- 🔭 I’m currently working on my final year project which is Early Fire Detection System using IOT devices and Azure services . 
+- 🌱 I’m currently learning React Native  
+- 👯 I’m looking to collaborate on Innovative web development projects, mobile apps using React Native, and anything related to prompt engineering. 
+- 🤔 I’m looking for help with Advanced React Native features, optimizing JavaScript performance, and exploring cutting-edge web technologies. 
+- 💬 Ask me about Web development, React Native, prompt engineering, or anything related to software engineering and technology. 
+- 📫 How to reach me: You can reach me via uh.ume.habiba@gmail.com, or connect with me on LinkedIn https://www.linkedin.com/in/um-e-habiba27. 
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: When I'm not coding, you might find me experimenting in the kitchen, trying to perfect a new recipe! 
 
-- 🌱 I’m currently learning **React Native , Cloud Computing.**
 
-- 📫 How to reach me **uh.ume.habiba@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MissProgramm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/um-e-habiba27/)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/um-e-habiba27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/um-e-habiba27" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissProgramm)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MissProgramm&show_icons=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=missprogrammer&show_icons=true&locale=en&layout=compact" alt="missprogrammer" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MissProgramm/contributions?format=svg&private=false)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=missprogrammer&show_icons=true&locale=en" alt="missprogrammer" /></p>
+![GitHub metrics](https://metrics.lecoq.io/MissProgramm)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=missprogrammer&" alt="missprogrammer" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MissProgramm)  
 
