@@ -4,12 +4,6 @@
 ## Software Engineer from Pakistan 
 🌟 Hello! I'm Ume Habiba. Currently on my journey as a software engineering student, I specialize in web development and am diving into the world of Android development with React Native. My passion for technology doesn't stop there—I’m fascinated by prompt engineering and constantly seek out new challenges to expand my knowledge. If you share a love for exploring innovative tech, let's connect and build something extraordinary!
 
-## Skills
-* ⚛️REACT 
-* 💻HTML / CSS / Js
-* 📱React Native 
-
-
 - 🔭 I’m currently working on my final year project which is Early Fire Detection System using IOT devices and Azure services . 
 - 🌱 I’m currently learning React Native  
 - 👯 I’m looking to collaborate on Innovative web development projects, mobile apps using React Native, and anything related to prompt engineering. 
@@ -19,6 +13,11 @@
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: When I'm not coding, you might find me experimenting in the kitchen, trying to perfect a new recipe! 
   
+## Skills
+* ⚛️REACT 
+* 💻HTML / CSS / Js
+* 📱React Native 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissProgramm)](https://github.com/anuraghazra/github-readme-stats)
 
